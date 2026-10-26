@@ -1,1 +1,1 @@
-ссылка на литкод https://leetcode.com/u/miiishock/
+ссылка на [литкод](https://leetcode.com/u/miiishock/) 
